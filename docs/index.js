@@ -1506,7 +1506,7 @@ var e=require("process"),t=require("./utils"),r=require("./helpers/normalizeHead
 },{"./utils":"S1cf","./helpers/bind":"EDTP","./core/Axios":"OvAf","./core/mergeConfig":"OHvn","./defaults":"BXyq","./cancel/Cancel":"mIKj","./cancel/CancelToken":"tsWd","./cancel/isCancel":"V30M","./helpers/spread":"X8jb"}],"dZBD":[function(require,module,exports) {
 module.exports=require("./lib/axios");
 },{"./lib/axios":"nUiQ"}],"gk7W":[function(require,module,exports) {
-"use strict";Object.defineProperty(exports,"__esModule",{value:!0}),exports.default=void 0;var e={apiUrl:"https://follow-gate-backend.onrender.com"};exports.default=e;
+"use strict";Object.defineProperty(exports,"__esModule",{value:!0}),exports.default=void 0;var e={apiUrl:"https://doorway-backend-api.onrender.com"};exports.default=e;
 },{}],"cEys":[function(require,module,exports) {
 "use strict";Object.defineProperty(exports,"__esModule",{value:!0}),exports.default=void 0;var e={apiUrl:"http://localhost:5000"};exports.default=e;
 },{}],"sdi9":[function(require,module,exports) {
