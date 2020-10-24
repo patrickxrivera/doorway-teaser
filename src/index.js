@@ -12,5 +12,5 @@ ReactDOM.render(
   <React.StrictMode>
     <App />
   </React.StrictMode>,
-  document.getElementById('__doorway-leaderboard')
+  document.getElementById('__doorway-teaser')
 );
